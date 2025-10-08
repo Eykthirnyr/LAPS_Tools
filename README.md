@@ -20,7 +20,7 @@ L'application gère les erreurs de manière détaillée, effectue un diagnostic 
 ## Prérequis
 
 - PowerShell 5.1+
-- Module Windows LAPS installé sur la machine cliente.
+- Module Windows LAPS installé sur votre domaine.
 - Droits **lecture** et **reset** LAPS configurés dans l'Active Directory pour l'OU des postes.
 - Accès réseau au contrôleur de domaine pour interroger l'annuaire AD.
 
